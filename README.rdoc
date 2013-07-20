@@ -3,7 +3,7 @@
 
 === 開発チーム
 チョウ、ギュウ、ヨウ、柴田、リョウ、金子
-
+test
 == Scrum Team
 === Scrum Master
 kaneko

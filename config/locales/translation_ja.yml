@@ -64,6 +64,7 @@ ja:
         absence_time: 休学期間 #g
         memo: 備考 #g
         status: 身分 #g
+        Created at: 作成時間 #g
 
       tuition:
         first_term_reduction: 前期減免 #g

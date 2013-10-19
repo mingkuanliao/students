@@ -45,8 +45,8 @@ gem "composite_primary_keys", "~> 5.0.4"
 gem "fastercsv"
 gem "rails_admin"
 gem "devise"
-gem "rails_admin_import", :git => "git://github.com/stephskardal/rails_admin_import.git"
-#gem "rails_admin_import", :git => "git://github.com/joelvh/rails_admin_import.git"
+#gem "rails_admin_import", :git => "git://github.com/stephskardal/rails_admin_import.git"
+gem "rails_admin_import", :git => "git://github.com/joelvh/rails_admin_import.git"
 ##########################
 # bootstrap
 gem "therubyracer"
